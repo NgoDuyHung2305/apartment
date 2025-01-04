@@ -1,5 +1,8 @@
 import { Image, StyleSheet, View, Text, TouchableOpacity, TextInput } from 'react-native';
 import React, { useState } from 'react';
+import { useNavigation } from '@react-navigation/native';
+import { router } from 'expo-router';
+import { useRouter } from 'expo-router';
 
 export default function HomeScreen() {
   const [isEditing, setIsEditing] = useState(false);
@@ -12,7 +15,7 @@ export default function HomeScreen() {
     phone: '0393191574',
     sex: 'Male',
     room: 'A01',
-    avatar: 'https://cdnphoto.dantri.com.vn/a3moJbXIWlIKrgZtq5Ffhtj-V7U=/thumb_w/1020/2024/11/22/messi-crop-1732270819764.jpeg', // Tạo avatar ngẫu nhiên
+    avatar: 'https://cdnphoto.dantri.com.vn/a3moJbXIWlIKrgZtq5Ffhtj-V7U=/thumb_w/1020/2024/11/22/messi-crop-1732270819764.jpeg',
   });
 
   const [editableUser, setEditableUser] = useState({ ...user });
@@ -27,8 +30,23 @@ export default function HomeScreen() {
     setIsEditing(true);
   };
 
+
+  const navigation = useNavigation();
+  const router = useRouter();
+
+  const handleLogOut = () => {
+    console.log('Logging out...');
+    router.replace('/login');
+    // Thực hiện logic logout ở đây, ví dụ xóa token hoặc chuyển hướng đến màn hình đăng nhập
+  };
+
   return (
     <View style={styles.container}>
+      {/* Nút Log Out */}
+      <TouchableOpacity style={styles.logoutButton} onPress={handleLogOut}>
+        <Text style={styles.logoutText}>Log Out</Text>
+      </TouchableOpacity>
+
       <View style={styles.profileContainer}>
         <Image source={{ uri: user.avatar }} style={styles.avatar} />
         <Text style={styles.name}>{user.name}</Text>
@@ -133,6 +151,25 @@ const styles = StyleSheet.create({
   editText: {
     color: 'white',
     fontSize: 18,
+    fontWeight: '600',
+  },
+  logoutButton: {
+    position: 'absolute',
+    top: 30,
+    right: 20,
+    backgroundColor: '#ff6347',
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 20,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.2,
+    shadowRadius: 4,
+    elevation: 5,
+  },
+  logoutText: {
+    color: 'white',
+    fontSize: 16,
     fontWeight: '600',
   },
 });
