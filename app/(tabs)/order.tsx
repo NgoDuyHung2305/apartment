@@ -3,8 +3,9 @@ import { ScrollView, StyleSheet, View, Text, TouchableOpacity, Modal, TextInput 
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Picker } from '@react-native-picker/picker';
+import { useFirebaseDatabase } from '../hooks/useDatabase';
 
-const ordersData = [
+const ordersData2 = [
   {
     id: 1,
     date: '2025-01-01',
@@ -29,15 +30,30 @@ const ordersData = [
 ];
 
 export default function OrderScreen() {
-  const [activeTab, setActiveTab] = useState('pending'); // Tab: 'pending' or 'history'
+  const [activeTab, setActiveTab] = useState('unsolved'); // Tab: 'pending' or 'history'
   const [description, setDescription] = useState('');
   const [requestType, setRequestType] = useState('public'); // Default to 'public'
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [sortOption, setSortOption] = useState('date-asc'); // Sorting by date
 
+
+  const {data: firebaseData, loading} = useFirebaseDatabase('Orders');
+
+
+  const ordersData = firebaseData
+    ? Object.entries(firebaseData).map(([key, value]) => ({
+        id: key,
+        date: value.create_at, // Adjusted for Firebase key
+        description: value.ord_description,
+        status: value.ord_status,
+        type: value.type,
+      }))
+    : [];
+
   // Filter orders based on tab
   const filteredOrders = ordersData.filter(
-    (order) => (activeTab === 'pending' && order.status === 'Pending') || (activeTab === 'history' && order.status !== 'Pending')
+    (order) => (activeTab === 'unsolved' && order.status === 'Unsolved') 
+    || (activeTab === 'history' && order.status !== 'Unsolved')
   );
 
   // Sort orders based on selected option
@@ -64,8 +80,8 @@ export default function OrderScreen() {
     <ThemedView style={styles.container}>
       <View style={styles.tabContainer}>
         <TouchableOpacity
-          style={[styles.tab, activeTab === 'pending' && styles.activeTab]}
-          onPress={() => setActiveTab('pending')}
+          style={[styles.tab, activeTab === 'unsolved' && styles.activeTab]}
+          onPress={() => setActiveTab('unsolved')}
         >
           <ThemedText style={styles.tabText}>Unsolved Orders</ThemedText>
         </TouchableOpacity>
@@ -79,24 +95,41 @@ export default function OrderScreen() {
 
       {/* Sort options */}
       <View style={styles.sortContainer}>
-        <TouchableOpacity onPress={() => setSortOption(sortOption === 'date-asc' ? 'date-desc' : 'date-asc')} style={styles.sortButton}>
-          <ThemedText style={styles.sortText}>Date {sortOption === 'date-asc' ? '↓' : '↑'}</ThemedText>
+        <TouchableOpacity onPress={() =>
+         setSortOption(sortOption === 'date-asc' ? 'date-desc' : 'date-asc')} 
+        style={styles.sortButton}>
+          <ThemedText style={styles.sortText}>
+            Date {sortOption === 'date-asc' ? '↓' : '↑'}</ThemedText>
         </TouchableOpacity>
       </View>
 
-      <ScrollView style={styles.ordersContainer}>
-        {sortedOrders.map((order) => (
-          <View key={order.id} style={styles.orderBox}>
-            <Text style={styles.orderDate}>{order.date}</Text>
-            <Text style={styles.orderDescription}>{order.description}</Text>
-            <Text style={[styles.orderStatus, getStatusStyle(order.status)]}>
-              {order.status}
-            </Text>
-            <Text style={styles.orderType}>{order.type}</Text>
-          </View>
-        ))}
-      </ScrollView>
 
+
+
+ {/* Loading Indicator */}
+
+
+ {loading ? (
+       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+       <ThemedText>Loading orders...</ThemedText>
+     </View>
+   ) : (
+
+
+
+    <ScrollView style={styles.ordersContainer}>
+    {sortedOrders.map((order) => (
+      <View key={order.id} style={styles.orderBox}>
+        <Text style={styles.orderDate}>{order.date}</Text>
+        <Text style={styles.orderDescription}>{order.description}</Text>
+        <Text style={[styles.orderStatus, getStatusStyle(order.status)]}>
+          {order.status}
+        </Text>
+        <Text style={styles.orderType}>{order.type}</Text>
+      </View>
+    ))}
+  </ScrollView>
+)}
       {/* Floating Action Button */}
       <TouchableOpacity
         style={styles.fab}
@@ -114,19 +147,19 @@ export default function OrderScreen() {
       >
         <View style={styles.modalOverlay}>
           <View style={styles.modalContainer}>
-            <Text style={styles.modalTitle}>Send Request</Text>
+            <Text style={styles.modalTitle}>Send Order</Text>
 
             {/* Description Input */}
             <TextInput
               style={styles.input}
-              placeholder="Request Description"
+              placeholder="Order Description"
               value={description}
               onChangeText={setDescription}
               multiline={true}
             />
 
             {/* Request Type Picker */}
-            <Text style={styles.label}>Request Type</Text>
+            <Text style={styles.label}>Order Type</Text>
             <Picker
               selectedValue={requestType}
               style={styles.picker}
@@ -138,7 +171,7 @@ export default function OrderScreen() {
 
             {/* Send Button */}
             <TouchableOpacity style={styles.sendButton} onPress={handleSendRequest}>
-              <ThemedText style={styles.sendButtonText}>Send Request</ThemedText>
+              <ThemedText style={styles.sendButtonText}>Send</ThemedText>
             </TouchableOpacity>
 
             {/* Close Button */}
@@ -314,9 +347,9 @@ const styles = StyleSheet.create({
 
 function getStatusStyle(status: String) {
   switch (status) {
-    case 'Pending':
+    case 'Unsolved':
       return { color: 'orange' };
-    case 'Completed':
+    case 'Solved':
       return { color: 'green' };
     case 'In Progress':
       return { color: 'blue' };

@@ -2,37 +2,54 @@ import React, { useState } from 'react';
 import { ScrollView, StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
+import { useFirebaseDatabase } from '../hooks/useDatabase';
 
-const receiptsData = [
-  {
-    id: 1,
-    date: '2025-01-01',
-    description: 'Receipt for purchase of products',
-    amount: 150,
-    status: 'Unpaid',
-    type: 'Purchase',
-  },
-  {
-    id: 2,
-    date: '2025-01-02',
-    description: 'Receipt for subscription renewal',
-    amount: 50,
-    status: 'Paid',
-    type: 'Subscription',
-  },
-  {
-    id: 3,
-    date: '2025-01-03',
-    description: 'Receipt for service fee',
-    amount: 200,
-    status: 'Unpaid',
-    type: 'Service',
-  },
-];
+// const receiptsData = [
+//   {
+//     id: 1,
+//     date: '2025-01-01',
+//     description: 'Receipt for purchase of products',
+//     amount: 150,
+//     status: 'Unpaid',
+//     type: 'Purchase',
+//   },
+//   {
+//     id: 2,
+//     date: '2025-01-02',
+//     description: 'Receipt for subscription renewal',
+//     amount: 50,
+//     status: 'Paid',
+//     type: 'Subscription',
+//   },
+//   {
+//     id: 3,
+//     date: '2025-01-03',
+//     description: 'Receipt for service fee',
+//     amount: 200,
+//     status: 'Unpaid',
+//     type: 'Service',
+//   },
+// ];
+
+
 
 export default function ReceiptScreen() {
   const [activeTab, setActiveTab] = useState('unpaid');
   const [sortOption, setSortOption] = useState('date-asc'); 
+
+  const {data: firebaseData, loading} = useFirebaseDatabase('Bills');
+
+  const receiptsData = firebaseData
+    ? Object.entries(firebaseData).map(([key, value]) => ({
+        id: key,
+        date: value.create_at, 
+        description: value.bill_description,
+        amount: value.amount,
+        status: value.bill_status,
+        type: value.bill_type,
+
+    })) 
+    : [];
 
   const filteredReceipts = receiptsData.filter(
     (receipt) => (activeTab === 'unpaid' && receipt.status === 'Unpaid') || (activeTab === 'history' && receipt.status !== 'Unpaid')
@@ -70,6 +87,9 @@ export default function ReceiptScreen() {
         </TouchableOpacity>
       </View>
 
+
+     
+
       {/* Sort options */}
       <View style={styles.sortContainer}>
         <TouchableOpacity onPress={() => setSortOption(sortOption === 'date-asc' ? 'date-desc' : 'date-asc')} style={styles.sortButton}>
@@ -81,17 +101,40 @@ export default function ReceiptScreen() {
       </View>
 
       {/* Display sorted receipts */}
-      <ScrollView style={styles.receiptsContainer}>
+      {/* <ScrollView style={styles.receiptsContainer}>
         {sortedReceipts.map((receipt) => (
           <View key={receipt.id} style={styles.receiptBox}>
             <Text style={styles.receiptDate}>{receipt.date}</Text>
             <Text style={styles.receiptType}>{receipt.type}</Text>
             <Text style={styles.receiptDescription}>{receipt.description}</Text>
-            <Text style={styles.receiptAmount}>${receipt.amount}</Text>
+        
             <Text style={[styles.receiptStatus, getStatusStyle(receipt.status)]}>{receipt.status}</Text>
           </View>
         ))}
-      </ScrollView>
+      </ScrollView> */}
+
+      {loading ? (
+             <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+             <ThemedText>Loading receipts...</ThemedText>
+           </View>
+         ) : (
+      
+      
+      
+          <ScrollView style={styles.receiptsContainer}>
+          {sortedReceipts.map((receipt) => (
+            <View key={receipt.id} style={styles.receiptBox}>
+              <Text style={styles.receiptDate}>{receipt.date}</Text>
+              <Text style={styles.receiptDescription}>{receipt.description}</Text>
+              <Text style={styles.receiptAmount}>{receipt.amount} VND</Text>
+              <Text style={[styles.receiptStatus, getStatusStyle(receipt.status)]}>
+                {receipt.status}
+              </Text>
+              <Text style={styles.receiptType}>{receipt.type}</Text>
+            </View>
+          ))}
+        </ScrollView>
+      )}
     </ThemedView>
   );
 }
