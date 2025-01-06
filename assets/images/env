@@ -1,0 +1,8 @@
+FIREBASE_API_KEY=AIzaSyD_tfkeYRJ79AWxuXwNFbhfh5TCDbDcrD8
+FIREBASE_AUTH_DOMAIN=apartment-management-2h.firebaseapp.com
+FIREBASE_DATABASE_URL=https://apartment-management-2h-default-rtdb.firebaseio.com
+FIREBASE_PROJECT_ID=apartment-management-2h
+FIREBASE_STORAGE_BUCKET=apartment-management-2h.firebasestorage.app
+FIREBASE_MESSAGING_SENDER_ID=491903370644
+FIREBASE_APP_ID=1:491903370644:web:0c678d0b39dde8d7cebb81
+FIREBASE_MEASUREMENT_ID=G-YF82MGJ4PE
