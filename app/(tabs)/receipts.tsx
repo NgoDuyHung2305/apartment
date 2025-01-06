@@ -77,13 +77,13 @@ export default function ReceiptScreen() {
           style={[styles.tab, activeTab === 'unpaid' && styles.activeTab]}
           onPress={() => setActiveTab('unpaid')}
         >
-          <ThemedText style={styles.tabText}>Receipts Unpaid</ThemedText>
+          <ThemedText style={styles.tabText}>Unpaid Receipts</ThemedText>
         </TouchableOpacity>
         <TouchableOpacity
           style={[styles.tab, activeTab === 'history' && styles.activeTab]}
           onPress={() => setActiveTab('history')}
         >
-          <ThemedText style={styles.tabText}>Receipt History</ThemedText>
+          <ThemedText style={styles.tabText}>Receipts History</ThemedText>
         </TouchableOpacity>
       </View>
 

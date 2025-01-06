@@ -3,20 +3,50 @@ import React, { useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { router } from 'expo-router';
 import { useRouter } from 'expo-router';
+import { useContext } from 'react';
+import { UserContext } from '../login';
+import { database } from '../firebaseConfig';
+import { useFirebaseDatabase } from '../hooks/useDatabase';
+import { recentemail } from '../login';
+
+
 
 export default function HomeScreen() {
+
+  
+// const {data: firebaseData} = useFirebaseDatabase('Dwellers');
+
+// const DwellerData = firebaseData
+//   ? Object.entries(firebaseData)
+//       .map(([key, value]) => ({
+//         id: key,
+//         name: value.dweller_name,
+//         email: value.dweller_email,
+//         birthday: value.dweller_birthday,
+//         hometown: value.dweller_hometown,
+//         phone: value.dweller_phone,
+//         sex: value.dweller_sex,
+//         room: value.id_room,
+//       }))
+//       .filter((dweller) => dweller.email === '22520523@gm.uit.edu.vn') // Lọc dựa trên email
+//   : [];
+
   const [isEditing, setIsEditing] = useState(false);
+
 
   const [user, setUser] = useState({
     name: 'Hưng Phan',
-    email: '22520523@gm.uit.edu.com',
-    birthday: '31/03/2004',
+    email: '22520523@gm.uit.edu.vn',
+    birthday: '2004-03-30',
     hometown: 'Kon Tum',
-    phone: '0393191574',
+    phone: '0388951754',
     sex: 'Male',
     room: 'A01',
     avatar: 'https://cdnphoto.dantri.com.vn/a3moJbXIWlIKrgZtq5Ffhtj-V7U=/thumb_w/1020/2024/11/22/messi-crop-1732270819764.jpeg',
   });
+
+
+
 
   const [editableUser, setEditableUser] = useState({ ...user });
 

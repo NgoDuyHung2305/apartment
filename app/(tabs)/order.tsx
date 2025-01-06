@@ -4,6 +4,9 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Picker } from '@react-native-picker/picker';
 import { useFirebaseDatabase } from '../hooks/useDatabase';
+import  {ref, push, set } from 'firebase/database';
+import { database } from '../firebaseConfig';
+
 
 const ordersData2 = [
   {
@@ -37,8 +40,18 @@ export default function OrderScreen() {
   const [sortOption, setSortOption] = useState('date-asc'); // Sorting by date
 
 
+ 
+
   const {data: firebaseData, loading} = useFirebaseDatabase('Orders');
 
+  const formatDate = () => {
+    const date = new Date();
+    const year = date.getFullYear();  // Lấy năm đầy đủ
+    const month = (date.getMonth() + 1).toString().padStart(2, '0');  // Lấy tháng và đảm bảo có 2 chữ số
+    const day = date.getDate().toString().padStart(2, '0');  // Lấy ngày và đảm bảo có 2 chữ số
+  
+    return `${year}-${month}-${day}`;  // Trả về chuỗi theo định dạng yyyy-MM-dd
+  };
 
   const ordersData = firebaseData
     ? Object.entries(firebaseData).map(([key, value]) => ({
@@ -49,6 +62,7 @@ export default function OrderScreen() {
         type: value.type,
       }))
     : [];
+
 
   // Filter orders based on tab
   const filteredOrders = ordersData.filter(
@@ -68,12 +82,57 @@ export default function OrderScreen() {
     }
   });
 
+  const handleCancelOrder = (orderId: string) => {
+    const orderRef = ref(database, `Orders/${orderId}`);  // Truy cập vào đơn hàng bằng key
+  
+    // Tìm đơn hàng trong sortedOrders bằng key
+    const orderToCancel = sortedOrders.find((order) => order.id === orderId);
+  
+    if (orderToCancel) {
+      // Cập nhật trạng thái của đơn hàng thành 'Cancelled'
+      set(orderRef, {
+        ...orderToCancel,  // Giữ nguyên các dữ liệu khác
+        ord_status: 'Cancelled',  // Cập nhật trạng thái là 'Cancelled'
+      })
+        .then(() => {
+          console.log('Order cancelled:', orderId);
+          // Khi đơn hàng bị hủy, chuyển sang tab history
+          setActiveTab('history');
+        })
+        .catch((error) => {
+          console.error('Error cancelling order:', error);
+        });
+    } else {
+      console.error('Order not found for key:', orderId);
+    }
+  };
+  
+
   const handleSendRequest = () => {
-    // Logic to send request (e.g., API call)
-    console.log('Request sent:', { description, requestType });
-    setIsModalVisible(false); // Close modal after sending
-    setDescription(''); // Clear input fields
-    setRequestType('public'); // Reset combo box
+    const newOrder = {
+      ord_description: description,  // Mô tả đơn hàng
+      type: requestType,  // Loại đơn hàng ('public' hoặc 'residence')
+      create_at: formatDate(),  // Thời gian tạo đơn hàng
+      idDweller: 'idDweller1',  // Thay thế bằng ID người cư trú thực tế (có thể lấy từ thông tin đăng nhập)
+      idRoom: 'idRoomA01',  // Thay thế bằng ID phòng thực tế (có thể lấy từ dữ liệu phòng)
+      ord_status: 'Unsolved',  // Trạng thái mặc định là 'Unsolved'
+    };
+
+
+
+    const ordersRef = ref(database, 'Orders');  // Truy cập vào node 'Orders' trong Firebase Realtime Database
+  const newOrderRef = push(ordersRef);  // Tạo một ID duy nhất cho đơn hàng mới
+  set(newOrderRef, newOrder)  // Lưu dữ liệu đơn hàng vào vị trí mới
+    .then(() => {
+      console.log('Order saved:', newOrder);
+      setIsModalVisible(false);  // Đóng modal sau khi gửi yêu cầu
+      setDescription('');  // Xóa dữ liệu trong input mô tả
+      setRequestType('public');  // Đặt lại loại yêu cầu về mặc định ('public')
+    })
+    .catch((error) => {
+      console.error('Error saving order:', error);
+      // Xử lý lỗi nếu có, ví dụ hiển thị thông báo lỗi cho người dùng
+    });
   };
 
   return (
@@ -126,6 +185,16 @@ export default function OrderScreen() {
           {order.status}
         </Text>
         <Text style={styles.orderType}>{order.type}</Text>
+
+        {/* Nút Cancel cho mỗi đơn hàng
+      {order.status === 'Unsolved' && (
+        <TouchableOpacity
+          style={styles.cancelButton}
+          onPress={() => handleCancelOrder(order.id)}
+        >
+          <ThemedText style={styles.cancelButtonText}>Cancel</ThemedText>
+        </TouchableOpacity>
+      )} */}
       </View>
     ))}
   </ScrollView>
@@ -165,8 +234,8 @@ export default function OrderScreen() {
               style={styles.picker}
               onValueChange={(itemValue) => setRequestType(itemValue)}
             >
-              <Picker.Item label="Public" value="public" />
-              <Picker.Item label="Residence" value="residence" />
+              <Picker.Item label="Public" value="Public" />
+              <Picker.Item label="Residence" value="Residence" />
             </Picker>
 
             {/* Send Button */}
@@ -343,6 +412,19 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '600',
   },
+  cancelButton: {
+    backgroundColor: '#e74c3c',  // Màu đỏ cho nút Cancel
+    paddingVertical: 8,
+    paddingHorizontal: 15,
+    borderRadius: 5,
+    marginTop: 10,
+    alignItems: 'center',
+  },
+  cancelButtonText: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
 });
 
 function getStatusStyle(status: String) {
@@ -351,9 +433,9 @@ function getStatusStyle(status: String) {
       return { color: 'orange' };
     case 'Solved':
       return { color: 'green' };
-    case 'In Progress':
-      return { color: 'blue' };
-    default:
+    case 'Canceled':
       return { color: 'gray' };
+    default:
+      return { color: 'orange' };
   }
 }
