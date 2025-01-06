@@ -109,14 +109,19 @@ export default function OrderScreen() {
   
 
   const handleSendRequest = () => {
-    const newOrder = {
-      ord_description: description,  // Mô tả đơn hàng
-      type: requestType,  // Loại đơn hàng ('public' hoặc 'residence')
-      create_at: formatDate(),  // Thời gian tạo đơn hàng
-      idDweller: 'idDweller1',  // Thay thế bằng ID người cư trú thực tế (có thể lấy từ thông tin đăng nhập)
-      idRoom: 'idRoomA01',  // Thay thế bằng ID phòng thực tế (có thể lấy từ dữ liệu phòng)
-      ord_status: 'Unsolved',  // Trạng thái mặc định là 'Unsolved'
-    };
+    const randomNumber = Math.floor(Math.random() * 2) + 1;
+
+const idEmployee = randomNumber === 1 ? '-OFcZNgryHDTlPeL2ty3' : 'idEmpl1';
+
+const newOrder = {
+  ord_description: description,  // Mô tả đơn hàng
+  type: requestType,  // Loại đơn hàng ('public' hoặc 'residence')
+  create_at: formatDate(),  // Thời gian tạo đơn hàng
+  idDweller: 'idDweller1',  // Thay thế bằng ID người cư trú thực tế (có thể lấy từ thông tin đăng nhập)
+  idRoom: 'idRoomA01',  // Thay thế bằng ID phòng thực tế (có thể lấy từ dữ liệu phòng)
+  ord_status: 'Unsolved',  // Trạng thái mặc định là 'Unsolved'
+  idEmployee: idEmployee,  // Dùng idEmployee đã xác định
+};
 
 
 
