@@ -1,0 +1,209 @@
+﻿<UserControl x:Class="Apartment_Management.View.BlockView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Apartment_Management.View"
+             xmlns:uc="clr-namespace:Apartment_Management.UserControls"
+             xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:vm="clr-namespace:Apartment_Management.ViewModel" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="#151f2d">
+    <UserControl.DataContext>
+        <vm:Block_View_Model />
+    </UserControl.DataContext>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock Text="{Binding Block.Block_Name}" TextAlignment="Left" Foreground="#dfe1e3" FontSize="16" Margin="0 5 0 0" FontWeight="SemiBold" Width="756" />
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <uc:BlockEntityCard Icon="Account" Title="CƯ DÂN" Number1="200">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDoubleClick">
+                        <i:InvokeCommandAction Command="{Binding BlockDwellerCommand}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </uc:BlockEntityCard>
+            <uc:BlockEntityCard Grid.Column="1" Icon="Home" Title="CĂN HỘ"  Number1="200" Space= "/" Number2="20">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDoubleClick">
+                        <i:InvokeCommandAction Command="{Binding BlockRoomCommand}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </uc:BlockEntityCard>
+            <uc:BlockEntityCard Grid.Column="2" Icon="InvoiceList" Title="HÓA ĐƠN" Number1="200" Space="/" Number2="500" >
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDoubleClick">
+                        <i:InvokeCommandAction Command="{Binding BlockReceiptCommand}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </uc:BlockEntityCard>
+            <uc:BlockEntityCard Grid.Column="3" Icon="CommentQuestionOutline" Title="YÊU CẦU" Number1="200" Space="/" Number2="500">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDoubleClick">
+                        <i:InvokeCommandAction Command="{Binding BlockOrderCommand}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </uc:BlockEntityCard>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="DANH SÁCH CĂN HỘ CÒN TRỐNG" Foreground="#dfe1e3" FontSize="16" Margin="10 0 0 0" FontWeight="SemiBold" />
+                <DataGrid Grid.Row="1" Margin="5"  Background="#202c44" Foreground="#ffffff"
+ AutoGenerateColumns="False"
+ HorizontalScrollBarVisibility="Hidden"
+ VerticalScrollBarVisibility="Auto"
+ GridLinesVisibility="Vertical"
+ RowHeight="30"
+ FontSize="13"
+ IsReadOnly="True" CanUserAddRows="False" CanUserResizeRows="False" RowHeaderWidth="0"
+              ItemsSource="{Binding EmptyRoomList}">
+                    <DataGrid.RowStyle>
+                        <Style TargetType="DataGridRow">
+                            <Setter Property="Background" Value="#243347"/>
+                        </Style>
+                    </DataGrid.RowStyle>
+                    <DataGrid.Columns>
+                            <DataGridTextColumn Header="Mã phòng" Binding="{Binding RoomID}" Width="*" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Loại" Binding="{Binding TypeRoomID}" Width="*" IsReadOnly="True" />
+                            <DataGridTextColumn Header="Giá" Binding="{Binding Price}" Width="*" IsReadOnly="True" />
+                        </DataGrid.Columns>
+                    <DataGrid.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <!--<Setter Property="Background" Value="#243347" />-->
+                            <!--<Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>-->
+                            <Setter Property="Cursor" Value="Hand"/>
+                            <Setter Property="Background" Value="#243347" />
+                            <Setter Property="Foreground" Value="White" />
+                            <Setter Property="BorderThickness" Value="0" />
+
+
+                            <!-- Căn giữa nội dung -->
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+
+                            <!-- Xử lý khi ô được chọn -->
+                            <Style.Triggers>
+                                <!-- Khi ô được chọn -->
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter Property="Background" Value="#243347" />
+                                    <!-- Màu nền khi được chọn -->
+                                    <Setter Property="Foreground" Value="White" />
+                                    <!-- Màu chữ khi được chọn -->
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.CellStyle>
+
+                    <!-- Header Style -->
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="Background" Value="#243347" />
+                            <Setter Property="Foreground" Value="#ffffff" />
+                            <Setter Property="FontWeight" Value="Bold" />
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                            <Setter Property="VerticalContentAlignment" Value="Center" />
+                            <Setter Property="BorderBrush" Value="White"/>
+                            <Setter Property="BorderThickness" Value="0,0,1,1"/>
+                            <Setter Property="Height" Value="20"/>
+                            <Setter Property="Cursor" Value="Hand"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+                </DataGrid>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="DANH SÁCH YÊU CẦU CHƯA XỬ LÝ" Foreground="#dfe1e3" FontSize="16" Margin="10 0 0 0" FontWeight="SemiBold" />
+                <DataGrid Grid.Row="1" Margin="5"  Background="#202c44" Foreground="#ffffff"
+ AutoGenerateColumns="False"
+ HorizontalScrollBarVisibility="Hidden"
+ VerticalScrollBarVisibility="Hidden"
+ GridLinesVisibility="Vertical"
+ RowHeight="30"
+ FontSize="13"
+ IsReadOnly="True" CanUserAddRows="False" CanUserResizeRows="False" RowHeaderWidth="0"
+                 ItemsSource="{Binding UnsolveOrderList}" >
+                    <DataGrid.RowStyle>
+                        <Style TargetType="DataGridRow">
+                            <Setter Property="Background" Value="#243347"/>
+                        </Style>
+                    </DataGrid.RowStyle>
+                    <DataGrid.Columns>
+                            <DataGridTextColumn Header="Mã yêu cầu" Binding="{Binding OrderID}" Width="*" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Căn hộ" Binding="{Binding RoomID}" Width="*" IsReadOnly="True" />
+                            <DataGridTextColumn Header="Mô tả" Binding="{Binding OrderDescription}" Width="*" IsReadOnly="True" />
+                            <DataGridTextColumn Header="Thời gian tạo" Binding="{Binding Create_At}" Width="*" IsReadOnly="True"/>
+                        </DataGrid.Columns>
+                    <DataGrid.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <!--<Setter Property="Background" Value="#243347" />-->
+                            <!--<Setter Property="HorizontalAlignment" Value="Center"/>
+<Setter Property="VerticalAlignment" Value="Center"/>-->
+                            <Setter Property="Cursor" Value="Hand"/>
+                            <Setter Property="Background" Value="#243347" />
+                            <Setter Property="Foreground" Value="White" />
+                            <Setter Property="BorderThickness" Value="0" />
+
+
+                            <!-- Căn giữa nội dung -->
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+
+                            <!-- Xử lý khi ô được chọn -->
+                            <Style.Triggers>
+                                <!-- Khi ô được chọn -->
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter Property="Background" Value="#243347" />
+                                    <!-- Màu nền khi được chọn -->
+                                    <Setter Property="Foreground" Value="White" />
+                                    <!-- Màu chữ khi được chọn -->
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.CellStyle>
+
+                    <!-- Header Style -->
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="Background" Value="#243347" />
+                            <Setter Property="Foreground" Value="#ffffff" />
+                            <Setter Property="FontWeight" Value="Bold" />
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                            <Setter Property="VerticalContentAlignment" Value="Center" />
+                            <Setter Property="BorderBrush" Value="White"/>
+                            <Setter Property="BorderThickness" Value="0,0,1,1"/>
+                            <Setter Property="Height" Value="20"/>
+                            <Setter Property="Cursor" Value="Hand"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+                </DataGrid>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

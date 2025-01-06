@@ -1,0 +1,542 @@
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe.config
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.AssemblyReference.cache
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.cache
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.g.resources
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.Properties.Resources.resources
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.GenerateResource.cache
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.CoreCompileInputs.cache
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.exe
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.lref
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartmen.367AB822.Up2Date
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_Content.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.g.cs
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.baml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.pdb
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Assets\apartment-management-2h-firebase-adminsdk-17i68-032a678aec.json
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.dll
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK1 - Năm 3\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Assets\apartment-management-2h-firebase-adminsdk-17i68-032a678aec.json
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.AssemblyReference.cache
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_Content.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.cache
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.lref
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.g.resources
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.Properties.Resources.resources
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.GenerateResource.cache
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.CoreCompileInputs.cache
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartmen.367AB822.Up2Date
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.exe
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe.config
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\ResourceXAML\ResourceDictionary.baml
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.g.cs
+D:\net\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Assets\apartment-management-2h-firebase-adminsdk-17i68-032a678aec.json
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe.config
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.dll
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.xml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.AssemblyReference.cache
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_Content.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.cache
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.lref
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\ResourceXAML\ResourceDictionary.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.g.resources
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.Properties.Resources.resources
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.GenerateResource.cache
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.CoreCompileInputs.cache
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartmen.367AB822.Up2Date
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.exe
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.pdb
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateDweller.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateDweller.baml
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateEmployee.g.cs
+D:\net - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateEmployee.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Assets\apartment-management-2h-firebase-adminsdk-17i68-032a678aec.json
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe.config
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.exe
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Apartment_Management.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.dll
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Firebase.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\FirebaseAdmin.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Api.Gax.Rest.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Auth.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Google.Apis.Core.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiteDB.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\Newtonsoft.Json.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Buffers.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.CodeDom.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Collections.Immutable.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.IO.Pipelines.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Memory.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Numerics.Vectors.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Reactive.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Encodings.Web.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Text.Json.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\bin\Debug\System.ValueTuple.xml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.AssemblyReference.cache
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractDetails.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateDweller.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateEmployee.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_Content.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.cache
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management_MarkupCompile.lref
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\App.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\MainWindow.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\ResourceXAML\ResourceDictionary.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockCard.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\BlockEntityCard.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\InfoCard.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\menubutton.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\PasswordControl.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\Province.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\UserControls\RoomCard.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Account.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddContract.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddDweller.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\AddEmployee.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockBillManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockDwellerManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockOrderManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockReceiptManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\BlockView.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\DwellerManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\EmployeeManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\FinanceManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Home.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\Login.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\OrderManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ReceiptManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomManagement.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\RoomView.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateDweller.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\UpdateEmployee.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\View\ContractDetails.baml
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.g.resources
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.Properties.Resources.resources
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.GenerateResource.cache
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.csproj.CoreCompileInputs.cache
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartmen.367AB822.Up2Date
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.exe
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\Apartment_Management.pdb

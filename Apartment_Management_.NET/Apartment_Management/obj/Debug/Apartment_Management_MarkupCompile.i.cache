@@ -1,0 +1,20 @@
+﻿Apartment_Management
+
+
+winexe
+C#
+.cs
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\obj\Debug\
+Apartment_Management
+none
+false
+DEBUG;TRACE
+D:\net - Copy - Copy\.NET---UIT-2024-2025\Apartment_Management_.NET\Apartment_Management\App.xaml
+32-975235917
+2-532946523
+77113963081
+49-1943231511
+MainWindow.xaml;ResourceXAML\ResourceDictionary.xaml;UserControls\BlockCard.xaml;UserControls\BlockEntityCard.xaml;UserControls\InfoCard.xaml;UserControls\menubutton.xaml;UserControls\PasswordControl.xaml;UserControls\Province.xaml;UserControls\RoomCard.xaml;View\Account.xaml;View\AddContract.xaml;View\AddDweller.xaml;View\AddEmployee.xaml;View\BlockBillManagement.xaml;View\BlockDwellerManagement.xaml;View\BlockManagement.xaml;View\BlockOrderManagement.xaml;View\BlockReceiptManagement.xaml;View\BlockView.xaml;View\ContractDetails.xaml;View\ContractManagement.xaml;View\DwellerManagement.xaml;View\EmployeeManagement.xaml;View\FinanceManagement.xaml;View\Home.xaml;View\Login.xaml;View\OrderManagement.xaml;View\ReceiptManagement.xaml;View\RoomManagement.xaml;View\RoomView.xaml;View\UpdateDweller.xaml;View\UpdateEmployee.xaml;
+
+True
+

@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Apartment_Management.View.BlockManagement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:uc="clr-namespace:Apartment_Management.UserControls"
+             xmlns:local="clr-namespace:Apartment_Management.View"
+             xmlns:vm="clr-namespace:Apartment_Management.ViewModel"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="#151f2d">
+    <UserControl.DataContext>
+        <vm:Block_Management_View_Model />
+    </UserControl.DataContext>
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="boolToVis"/>
+    </UserControl.Resources>
+    <Grid>
+
+        <!--Searchbar-->
+        <Grid >
+            <ListView Background="Transparent" ItemsSource="{Binding BlockList}" SelectedItem="{Binding SelectedBlock}" BorderThickness="0">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDoubleClick">
+                        <i:InvokeCommandAction Command="{Binding BlockViewCommand}" CommandParameter="{Binding SelectedBlock}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <uc:BlockCard BlockName="{Binding Block_Name}" BlockRoomAvailable="{Binding No_Rooms_Available}" BlockRoom="{Binding No_Rooms}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="Apartment_Management.UserControls.BlockCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:local="clr-namespace:Apartment_Management.UserControls"
+             xmlns:view="clr-namespace:Apartment_Management.View"
+             mc:Ignorable="d"
+             Name="blockCard"
+            >
+    <Border Margin="0 0 0 20" >
+        <Border.Style>
+            <Style TargetType="Border" BasedOn="{StaticResource mainBorder}">
+                <Setter Property="BorderThickness" Value="1.5"/>
+                <Setter Property="BorderBrush" Value="Transparent"/>
+            </Style>
+        </Border.Style>
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel>
+                <Icon:PackIconMaterial Kind="Greenhouse" Foreground="#dfe1e3" Height="80" Width="80" HorizontalAlignment="Center" />
+            </StackPanel>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel>
+                        <TextBlock FontSize="13" Foreground="#7166f9"/>
+                        <TextBlock Text="{Binding ElementName=blockCard, Path=BlockName}" Foreground="#dfe1e3" FontSize="16" Margin="0 5 0 0" FontWeight="SemiBold"/>
+                    </StackPanel>
+                    <Grid Grid.Row="1" VerticalAlignment="Center">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel>
+                            <TextBlock FontSize="13" Foreground="#7166f9"/>
+                            <TextBlock Text="{Binding ElementName=blockCard, Path=BlockRoomAvailable}" Foreground="#dfe1e3" FontSize="16" Margin="0 5 0 0" FontWeight="SemiBold"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock FontSize="13" Foreground="#7166f9"/>
+                            <TextBlock Text="/" Foreground="#dfe1e3" FontSize="16" Margin="0 5 0 0" FontWeight="SemiBold"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2">
+                            <TextBlock FontSize="13" Foreground="#7166f9"/>
+                            <TextBlock Text="{Binding ElementName=blockCard, Path=BlockRoom}" Foreground="#dfe1e3" FontSize="16" Margin="0 5 0 0" FontWeight="SemiBold"/>
+                        </StackPanel>
+
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>
