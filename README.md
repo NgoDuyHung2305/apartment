@@ -7,7 +7,7 @@
 
    ```bash
    choose brach
-   a. for cudan & nhan vien:  npm install and move to step 2
+   a. for cudan & nhanvien:  npm install and move to step 2
    b. for quanly: open in visual studio and press Ctrl+F5 to run
   
    ```
