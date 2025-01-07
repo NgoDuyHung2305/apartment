@@ -6,7 +6,10 @@
 1. Install dependencies
 
    ```bash
-   npm install
+   choose brach
+   a. for cudan & nhan vien:  npm install and move to step 2
+   b. for quanly: open in visual studio and press Ctrl+F5 to run
+  
    ```
 
 2. Start the app
