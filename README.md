@@ -11,8 +11,9 @@
 
 2. Start the app
 
-   ```npm start
-      press w or a to choose environment
+   ```
+   npm start
+   press w or a to choose environment
    ```
 
 In the output, you'll find options to open the app in a
